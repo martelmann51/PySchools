@@ -1,0 +1,6 @@
+Conclusions:
+
+- Charter schools outperform district schools in math and reading scores.
+- Schools that spend more per student have lower math and reading scores.
+- Schools that spend more per student have fewer students passing math and reading.
+- Larger size schools tend to have lower math and reading scores and passing rates
